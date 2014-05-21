@@ -1,0 +1,3 @@
+# Module minesweeper_mvp
+# RPC service class, partial path of RPC policy file
+com.course.mvp.demo.client.GreetingService, D4EC5703ED3386FA7286A4C2CA86676A.gwt.rpc
